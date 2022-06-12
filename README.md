@@ -24,9 +24,10 @@ Screenshots of working of password validation are as follows<br/>
 --------------------------------------------------------------------------------------------
 
 <br/>
+
 Gradient colors of #2892d7,#8eedf7,white,rgb(198, 94, 186),#916fc0  <br/>
 Pics used in CSS part of the validation form are <br/>
-![1](https://user-images.githubusercontent.com/80317188/173223722-dc37d1ce-0aa7-4bf7-a5b2-9aa0f88f88cd.png)<br/>
+![image](https://user-images.githubusercontent.com/80317188/173224966-f8e9236f-b813-4698-b9f0-464787ffbb48.png)
 
 
 and GIF<br/>
