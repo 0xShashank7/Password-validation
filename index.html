@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Validation</title>
+    <link rel="shortcut icon" href="https://i.postimg.cc/qRXCvLw7/518441aabec198901d94c659f4869ebd.jpg" type="image/x-icon">
+</head>
+<link rel="stylesheet" href="index.css">
+<body>
+    <div class="container-div">
+        <div class="container">
+            <h3>Username</h3>
+            <input id="user" type="text" placeholder="Enter username" required >
+            <h3>Password</h3>
+            <input id="pass" type="password" placeholder="Enter password" required>
+            <p id="str">Password is <span id="msg"></span> </p>
+            <br>
+            <button onclick="validate()">Submit</button>
+            <div id="error" style="visibility: hidden  ;">
+                <div id="caps">Please include atleast One Uppercase</div>
+                <div id="symbol">Please add atleast One Special Symbol</div>
+                <div id="char">Please add atleast 8 Characters</div>
+                <div id="nums">Please do not include numbers</div>
+                <div id="empty">Do not leave empty spaces</div>
+            </div>
+        </div>
+    </div>
+<script src="logic.js"></script>
+</body>
+</html>

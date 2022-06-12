@@ -1,0 +1,39 @@
+
+                <!-- <div id="caps">Atleast One Uppercase</div>
+                <div id="symbol">Atleast One Special Symbol</div>
+                <div id="char">Atleast 6 Characters</div> -->
+                <!-- <video src="./6aa0e41b4775d3bb9f2b78bc5154d41c.gif" alt="gif"></video> -->
+
+
+                
+    /* max-width: 1000px; */
+    
+    /* #ff006e  */
+    /* background-size:cover; */
+    
+    /* background-image: url("https://images.pexels.com/photos/7134981/pexels-photo-7134981.jpeg"); */
+    /* margin-top: 18px; */
+    /* margin-top: 5px; */
+    // function validate(){
+//     if(password.value.match(/[A-Z]/)){
+//         caps.style.color = "green"
+//     }
+//     else{
+//         caps.style.color = "red "
+//     }
+
+//     if(password.value.match(/[!\@\#\$\%\^\&\*\(\)\_\-\=\+\{\}\[\]\.\,\>\<]/)){
+//         symbol.style.color = "green"
+//     }
+//     else{
+//         symbol.style.color = "red"
+//     }
+
+//     if(password.value.length <8){
+//         char.style.color = "red"
+//     }
+//     else{
+//         char.style.color = "green"
+//     }
+//     // if(password.ariaValueMax.match(/[A-Z]/))
+// }
