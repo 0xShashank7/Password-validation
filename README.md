@@ -1,13 +1,13 @@
 # Password-validation
 Password validation form done with HTML, CSS and JavaScript technologies
 
-Here in the password validation form, the passsword is only accepted by following condition 👇
-◘ Should contain at least one caps letter
-◘ Should contain minimum length of 8 characters 
-◘ Should contain atleast 1 special character
-◘ Should contain no numbers
-◘ Display password strength
-◘ Should Display error message, if any during validation
+Here in the password validation form, the passsword is only accepted by following condition 👇__
+◘ Should contain at least one caps letter__
+◘ Should contain minimum length of 8 characters __
+◘ Should contain atleast 1 special character__
+◘ Should contain no numbers__
+◘ Display password strength__
+◘ Should Display error message, if any during validation__
 
 
 Screenshots of working of password validation are as follows
